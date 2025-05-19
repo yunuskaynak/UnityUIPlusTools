@@ -4,8 +4,6 @@
 A Unity UI extension for animated, robust, and easily configured sequential or parallel layout transitions.  
 Designed for use with Unity's built-in HorizontalLayoutGroup or VerticalLayoutGroup — visually author your UI, then animate like a pro!
 
----
-
 ## 🎬 Preview
 
 <h3 align="center">Horizontal Layout Animation</h3>
@@ -18,8 +16,6 @@ Designed for use with Unity's built-in HorizontalLayoutGroup or VerticalLayoutGr
   <img src="https://s14.gifyu.com/images/bs8Rh.gif" alt="Vertical Layout Animation" border="0"/>
 </p>
 
----
-
 ## 🚀 Installation
 
 <ol>
@@ -31,8 +27,6 @@ Designed for use with Unity's built-in HorizontalLayoutGroup or VerticalLayoutGr
   </ul>
 </li>
 </ol>
-
----
 
 ## 🛠️ Setup & Usage
 
@@ -77,8 +71,6 @@ customLayout.DeactivateChild(new RectTransform[] { child3 }, allAtOnce: false);
 </li>
 </ol>
 
----
-
 ## ⚙️ Inspector Parameters
 
 <ul>
@@ -99,8 +91,6 @@ customLayout.DeactivateChild(new RectTransform[] { child3 }, allAtOnce: false);
   <li>Ideal for animated inventories, dynamic menus, carousels, and reflowing UI bars.</li>
 </ul>
 
----
-
 ## 📷 Example Workflow
 
 <ol>
@@ -112,8 +102,6 @@ customLayout.DeactivateChild(new RectTransform[] { child3 }, allAtOnce: false);
   <li>Use <code>ActivateChild()</code> and <code>DeactivateChild()</code> in code to animate elements as needed.</li>
 </ol>
 
----
-
 ## 🧩 Additional Notes
 
 <ul>
@@ -121,8 +109,6 @@ customLayout.DeactivateChild(new RectTransform[] { child3 }, allAtOnce: false);
   <li>The custom script captures the layout group’s positions for smooth animation.</li>
   <li>You can always change animation durations, easing, and scale effects via the inspector.</li>
 </ul>
-
----
 
 ## 🕊️ License
 
