@@ -1,9 +1,16 @@
-# UnityUIPlusTools | Improve visual and performance
+# UnityUIPlusTools | Improve performance and visual of your User Interface
 
 A Unity UI extension for animated, robust, and easily configured sequential or parallel layout transitions.  
 Designed for use with Unity's built-in HorizontalLayoutGroup or VerticalLayoutGroup — visually author your UI, then animate like a pro!
 
 ---
+
+## 🎬 Preview
+
+| Horizontal Layout Animation | Vertical Layout Animation |
+|----------------------------|--------------------------|
+| ![Horizontal](https://s12.gifyu.com/images/bs8RE.gif) | ![Vertical](https://s12.gifyu.com/images/bs8Rh.gif) |
+
 
 ## 🚀 Installation
 
