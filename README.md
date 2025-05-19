@@ -10,7 +10,7 @@ Designed for use with Unity's built-in HorizontalLayoutGroup or VerticalLayoutGr
 
 <h3 align="center">Horizontal Layout Animation</h3>
 <p align="center">
-  <img src="https://s14.gifyu.com/images/bs8RE.th.gif" alt="Horizontal Layout Animation" border="0">
+  <img src="https://s14.gifyu.com/images/bs8RE.gif" alt="Horizontal Layout Animation" border="0">
 </p>
 
 <h3 align="center">Vertical Layout Animation</h3>
